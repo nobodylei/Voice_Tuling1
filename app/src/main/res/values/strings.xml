@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">聊天小灵</string>
+    <string name="voice">语音</string>
+    <string name="text">文字</string>
+    <string name="str_talk">按住 说话</string>
+    <string name="dialog_want_canel">手指上滑 ，取消发送</string>
+    <string name="send">发送</string>
+    <string name="title_name">小灵</string>
+    <string name="delete">删除</string>
+    <string name="chat_records">聊天记录</string>
+</resources>
